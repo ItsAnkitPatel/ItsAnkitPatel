@@ -29,9 +29,9 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 
 ### 📊 My Github Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=its-ankitpatel&theme=buefy&background=FFFFFF)](https://github.com/Its-ankitpatel)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://github.com/ItsAnkitPatel)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=its-ankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/Its-ankitpatel) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel) 
 
 <!--
 ### 💻 Technologies & Tools
@@ -56,4 +56,4 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 <!-- Thanks for stopping by! Don't forget to give me a follow and say hi. -->
 Thanks for visiting my profile! Let's connect and build something amazing together! 🙌
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=its-ankitpatel)](https://github.com/Its-ankitpatel)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ItsAnkitPatel)](https://github.com/ItsAnkitPatel)
