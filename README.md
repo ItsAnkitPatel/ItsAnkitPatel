@@ -19,10 +19,10 @@ It's just amazing that your code can help millions of people. I'm passionate abo
 ### 📫 How to reach me?
 
 You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at developerakpatel@gmail.com .
-
+<!--
 ### ⚡ Fun fact: 
 <img src="/../AssestsBranch/anime.gif" height="50"> I absolutely love anime! 
-
+-->
 ### 💭 My Procrastination Killer
 
 <img src="/../AssestsBranch/linux-computer.gif" height = "50"> &nbsp; Remember, 10 minutes a day keeps procrastination at bay! 💯 
