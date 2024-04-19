@@ -1,7 +1,7 @@
 <img alt="Hi Friends" src="https://user-images.githubusercontent.com/83267083/209559829-6d870627-a58f-4dbc-9f17-5cb63db4a4a4.gif" width="230" height="170">
 
 ## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
-#### 🤖 Software Engineer | 💻 Programmer | 🎬 Anime Lover 
+#### 🤖 Software Engineer | 💻 Programmer |
 
 Welcome to my Github profile! I'm a software engineer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning javascript. 
 
@@ -12,10 +12,11 @@ Welcome to my Github profile! I'm a software engineer from India with a passion 
 - 🌱 Learning Web Devlopment and updating my learnings on my [twitter handle](https://twitter.com/Its_AKPatel)
 <!-- - 🚀 Exploring the latest advancements in the tech industry  -->
 
+<!--
 ### 💞️ Open Source Contributions
 
 It's just amazing that your code can help millions of people. I'm passionate about contributing to open source projects, collaborating with other developers, and helping to make the world a better place through technology. 
-
+-->
 ### 📫 How to reach me?
 
 You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at developerakpatel@gmail.com .
@@ -56,4 +57,5 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 <!-- Thanks for stopping by! Don't forget to give me a follow and say hi. -->
 Thanks for visiting my profile! Let's connect and build something amazing together! 🙌
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ItsAnkitPatel)](https://github.com/ItsAnkitPatel)
+<!-- [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ItsAnkitPatel)](https://github.com/ItsAnkitPatel) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FItsAnkitPatel%2FItsAnkitPatel&countColor=%232ccce4&style=plastic)
