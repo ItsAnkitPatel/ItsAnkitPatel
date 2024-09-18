@@ -3,7 +3,7 @@
 ## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
 #### 🤖 Software Engineer | 💻 Programmer |
 
-Welcome to my Github profile! I'm a software engineer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning javascript. <br />
+Welcome to my Github profile! I'm a software engineer from India who found programming daunting but very interesting enough to stick with it in my upcoming years. If I am not building something then you will always gonna find me learning new technologies, currently focusing on deep dive into javascript and learning good code practices plus architecture. <br />
 **My Porfolio**: <a href="https://ankit-dev-portfolio.vercel.app/" target="_blank">Live Link</a>
 
 ### 🔭 What's new?
