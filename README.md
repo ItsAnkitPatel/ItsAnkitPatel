@@ -1,6 +1,6 @@
 <img alt="Hi Friends" src="https://user-images.githubusercontent.com/83267083/209559829-6d870627-a58f-4dbc-9f17-5cb63db4a4a4.gif" width="230" height="170">
 
-## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
+## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there, I’m Ankit! 
 #### 🤖 Software Engineer | 💻 Programmer |
 
 Welcome to my Github profile! I'm a software engineer from India who found programming daunting but very interesting enough to stick with it in my upcoming years. If I am not building something then you will always gonna find me learning new technologies, currently focusing on deep dive into javascript and learning good code practices plus architecture. <br />
