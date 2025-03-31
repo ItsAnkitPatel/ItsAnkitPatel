@@ -25,11 +25,12 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 ### ⚡ Fun fact: 
 <img src="/../AssestsBranch/anime.gif" height="50"> I absolutely love anime! 
 -->
+<!--
 ### 💭 My Procrastination Killer
 
 <img src="/../AssestsBranch/linux-computer.gif" height = "50"> &nbsp; Remember, 10 minutes a day keeps procrastination at bay! 💯 
-
-### 📊 My Github Stats 
+-->
+### 📊 Github Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://github.com/ItsAnkitPatel)
 
