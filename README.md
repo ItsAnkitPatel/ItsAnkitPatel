@@ -6,7 +6,7 @@
 Welcome to my Github profile! I'm a software engineer from India who found programming daunting but very interesting enough to stick with it in my upcoming years. If I am not building something then you will always gonna find me learning new technologies, currently focusing on deep dive into Golang and learning good code practices plus architecture. <br />
 **My Porfolio**: <a href="https://ankit-dev-portfolio.vercel.app/" target="_blank">Live Link</a>
 
-My backend journey from boot.dev
+My backend journey from <a href="https://www.boot.dev/u/ankitpatel" target="_blank">boot.dev</a>
 
 [![My backend journey](https://api.boot.dev/v1/users/public/c6d23b3e-e69c-4697-9a2d-eb12c3312c21/thumbnail)](https://www.boot.dev/u/ankitpatel)
 
